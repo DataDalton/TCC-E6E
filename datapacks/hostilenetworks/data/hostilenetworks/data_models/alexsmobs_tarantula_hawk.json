@@ -1,0 +1,22 @@
+{
+	"type": "alexsmobs:tarantula_hawk",
+	"name": "entity.alexsmobs.tarantula_hawk",
+	"name_color": "0x80201a",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 200,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "alexsmobs:tarantula_hawk_wing_fragment",
+			"count": 2
+		}
+	]
+}

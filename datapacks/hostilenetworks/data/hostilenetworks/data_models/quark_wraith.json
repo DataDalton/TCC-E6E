@@ -1,0 +1,22 @@
+{
+	"type": "quark:wraith",
+	"name": "entity.quark.wraith",
+	"name_color": "0xdddddd",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 100,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "quark:soul_bead",
+			"count": 4
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"type": "atum:wraith",
+	"name": "entity.atum.wraith",
+	"name_color": "0x6A6E09",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 100,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "atum:ectoplasm",
+			"count": 4
+		}
+	]
+}

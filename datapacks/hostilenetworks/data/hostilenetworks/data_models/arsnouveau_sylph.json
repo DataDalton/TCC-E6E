@@ -1,0 +1,22 @@
+{
+	"type": "ars_nouveau:sylph",
+	"name": "entity.ars_nouveau.sylph",
+	"name_color": "0x90EE90",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 250,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "ars_nouveau:sylph_shards",
+			"count": 1
+		}
+	]
+}

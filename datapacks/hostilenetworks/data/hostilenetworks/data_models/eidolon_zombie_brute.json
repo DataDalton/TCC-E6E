@@ -1,0 +1,30 @@
+{
+	"type": "eidolon:zombie_brute",
+	"name": "entity.eidolon.zombie_brute",
+	"name_color": "0x013220",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 150,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "minecraft:rotten_flesh",
+			"count": 16
+		},
+		{
+			"item": "minecraft:bone",
+			"count": 4
+		},
+		{
+			"item": "eidolon:zombie_heart",
+			"count": 1
+		}
+	]
+}

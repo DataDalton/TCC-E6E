@@ -1,0 +1,26 @@
+{
+	"type": "alexsmobs:kangaroo",
+	"name": "entity.alexsmobs.kangaroo",
+	"name_color": "0x654321",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 150,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "alexsmobs:kangaroo_meat",
+			"count": 2
+		},
+		{
+			"item": "alexsmobs:kangaroo_hide",
+			"count": 1
+		}
+	]
+}

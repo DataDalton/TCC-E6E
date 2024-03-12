@@ -1,0 +1,22 @@
+{
+	"type": "atum:desert_wolf",
+	"name": "entity.atum.desert_wolf",
+	"name_color": "0xBE6400",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 150,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "atum:wolf_pelt",
+			"count": 1
+		}
+	]
+}

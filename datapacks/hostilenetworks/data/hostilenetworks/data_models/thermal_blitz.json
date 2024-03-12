@@ -1,0 +1,22 @@
+{
+	"type": "thermal:blitz",
+	"name": "entity.thermal.blitz",
+	"name_color": "0xF5F5F5",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 300,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"fabricator_drops": [
+		{
+			"item": "thermal:blitz_rod",
+			"count": 1
+		}
+	]
+}
